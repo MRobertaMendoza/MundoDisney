@@ -1,0 +1,19 @@
+### 
+POST http://localhost:3000/api/signup HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "alfa",
+    "email": "alfa@gmail.com",
+    "password": "098765"
+   
+}
+###
+POST http://localhost:3000/api/signin HTTP/1.1
+Content-Type: application/json
+
+{
+   
+    "email": "alfa@gmail.com",
+    "password": "098765"
+    }
