@@ -1,6 +1,6 @@
 # Disney API
 
-Esta aplicación es un desafío de programación de la organización [Alkemy](https://campus.alkemy.org/challenges/21428).Que esta en desarrollo  en la cual actualmente se esta trabajando, para poder llegar al final del proyecto.
+Esta aplicación es un desafío de programación de la organización [Alkemy](https://campus.alkemy.org/challenges/21428). La cual aun esta en desarrollo, para poder llegar al final del proyecto.
 
 
 
